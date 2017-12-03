@@ -1,0 +1,47 @@
+body {
+  
+}
+
+main {
+  width:610px;
+  height:650px;
+  margin:auto;
+}
+
+#container {
+  width:625px;
+  height:450px;
+  vertical-align: bottom;
+  display: table-cell;
+}
+
+h1 {
+  text-align:center;
+}
+
+img {
+  margin-right:2px;
+  vertical-align: bottom;
+}
+
+button {
+  width:80px;
+}
+
+#btn-container {
+  width:250px;
+  margin:auto;
+  margin-top: 15px;
+}
+
+#red {
+
+}
+
+#blue {
+
+}
+
+#green {
+
+}
