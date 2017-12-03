@@ -1,4 +1,4 @@
-# Secret Message Group Coding Lesson
+# Science Graph Group Coding Lesson
 
 1. **First Person Name Goes here**
     - Clone the exercise from GitHub and open it in Sublime
