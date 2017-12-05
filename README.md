@@ -1,20 +1,20 @@
 # Science Graph Group Coding Lesson
 
-1. **First Person Name Goes here**
+1. **Finn**
     - Clone the exercise from GitHub and open it in Sublime
     - Explain how the CSS, JavaScript, and jQuery are linked in the HTML file
     - Change the title and show the result to the audience
     - Add a linear gradient to the body background
     - Set the background color of the #container to white
 ------------------------------------------------------------
-2. **Second Person Name Goes here**
+2. **Shawn**
     - Add a thick border around the `#container` div
     - Add rounded corners to the `#container` div
     - Add some padding to the `#container`
     - Add some padding to the button and change it's background color to it's name
     - Increase the font size and change the color button text to white
 ------------------------------------------------------------
-3. **Third Person Name Goes here**
+3. **Ty**
     - Inside the JavaScript file:
         - Explain the code that is in there 
         - use `alert()` to make sure our files are linked correctly
