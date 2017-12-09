@@ -1,10 +1,9 @@
 # Science Graph Group Coding Lesson
 
 1. **Finn**
-    - Clone the exercise from GitHub and open it in Sublime
     - Explain how the CSS, JavaScript, and jQuery are linked in the HTML file
     - Change the title and show the result to the audience
-    - Add a linear gradient to the body background
+    - Add a gradient to the body background
     - Set the background color of the #container to white
 ------------------------------------------------------------
 2. **Shawn**
@@ -16,9 +15,6 @@
 ------------------------------------------------------------
 3. **Ty**
     - Inside the JavaScript file:
-        - Explain the code that is in there 
-        - use `alert()` to make sure our files are linked correctly
-    - If everything is working correctly, remove the `alert()`
     - Select the `red` button using jQuery and add a 'click' handler
     - Inside the click handler, Select the `red` images using jQuery and add a 'slideToggle' handler
     - Explain and test the feature
